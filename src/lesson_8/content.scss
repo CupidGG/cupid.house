@@ -1,0 +1,13 @@
+.page-container {
+    min-height: 100vh;
+    max-width: 980px;
+    margin: 0 auto;
+    background: rgb(255, 197, 91);
+}
+
+.product-list {
+    padding: 6px;
+    &__item {
+        padding: 6px;
+    }
+}
